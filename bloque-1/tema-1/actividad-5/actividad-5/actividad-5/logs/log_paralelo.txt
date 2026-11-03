@@ -1,0 +1,19 @@
+[Hilo-3] Pedidos 201 a 300
+[Hilo-2] Pedidos 101 a 200
+[Hilo-7] Pedidos 601 a 700
+[Hilo-8] Pedidos 701 a 800
+[Hilo-5] Pedidos 401 a 500
+[Hilo-6] Pedidos 501 a 600
+[Hilo-4] Pedidos 301 a 400
+[Hilo-1] Pedidos 1 a 100
+[Hilo-2] Tramo terminado
+[Hilo-7] Tramo terminado
+[Hilo-3] Tramo terminado
+[Hilo-1] Tramo terminado
+[Hilo-6] Tramo terminado
+[Hilo-8] Tramo terminado
+[Hilo-5] Tramo terminado
+[Hilo-4] Tramo terminado
+[main] Versión paralela (8 hilos)
+Pedidos preparados: 800
+Tiempo: 2532 ms (2.53 s)

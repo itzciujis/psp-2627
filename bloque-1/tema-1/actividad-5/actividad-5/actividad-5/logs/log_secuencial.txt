@@ -1,0 +1,3 @@
+[main] Versión secuencial
+Pedidos preparados: 800
+Tiempo: 20197 ms (20.20 s)
