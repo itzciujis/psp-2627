@@ -1,0 +1,26 @@
+[Trabajador] Esperando órdenes en /tmp/run6/canal.txt
+[Trabajador] Recibida orden: tarea 1
+[Trabajador] Trabajando en la tarea 1...
+[Trabajador] Tarea 1 completa. Resultado: 3
+[Trabajador] Recibida orden: tarea 2
+[Trabajador] Trabajando en la tarea 2...
+[Trabajador] Tarea 2 completa. Resultado: 6
+[Trabajador] Recibida orden: tarea 3
+[Trabajador] Trabajando en la tarea 3...
+[Trabajador] Tarea 3 completa. Resultado: 9
+[Trabajador] Recibida orden: tarea 4
+[Trabajador] Trabajando en la tarea 4...
+[Trabajador] Tarea 4 completa. Resultado: 12
+[Trabajador] Recibida orden: tarea 5
+[Trabajador] Trabajando en la tarea 5...
+[Trabajador] Tarea 5 completa. Resultado: 15
+[Trabajador] Recibida orden: tarea 6
+[Trabajador] Trabajando en la tarea 6...
+[Trabajador] Tarea 6 completa. Resultado: 18
+[Trabajador] Recibida orden: tarea 7
+[Trabajador] Trabajando en la tarea 7...
+[Trabajador] Tarea 7 completa. Resultado: 21
+[Trabajador] Recibida orden: tarea 8
+[Trabajador] Trabajando en la tarea 8...
+[Trabajador] Tarea 8 completa. Resultado: 24
+[Trabajador] Recibido fin. Cierro.

@@ -1,0 +1,36 @@
+[Main] Enviada orden: tarea 1
+[Main] El trabajador está trabajando en la tarea 1
+[Main] Guardado el resultado de la tarea 1: 3
+[Main] Enviada orden: tarea 2
+[Main] El trabajador está trabajando en la tarea 2
+[Main] Guardado el resultado de la tarea 2: 6
+[Main] Enviada orden: tarea 3
+[Main] El trabajador está trabajando en la tarea 3
+[Main] Guardado el resultado de la tarea 3: 9
+[Main] Enviada orden: tarea 4
+[Main] El trabajador está trabajando en la tarea 4
+[Main] Guardado el resultado de la tarea 4: 12
+[Main] Enviada orden: tarea 5
+[Main] El trabajador está trabajando en la tarea 5
+[Main] Guardado el resultado de la tarea 5: 15
+[Main] Enviada orden: tarea 6
+[Main] El trabajador está trabajando en la tarea 6
+[Main] Guardado el resultado de la tarea 6: 18
+[Main] Enviada orden: tarea 7
+[Main] El trabajador está trabajando en la tarea 7
+[Main] Guardado el resultado de la tarea 7: 21
+[Main] Enviada orden: tarea 8
+[Main] El trabajador está trabajando en la tarea 8
+[Main] Guardado el resultado de la tarea 8: 24
+[Main] Enviado fin
+
+Tarea | Resultado
+  1   |    3
+  2   |    6
+  3   |    9
+  4   |    12
+  5   |    15
+  6   |    18
+  7   |    21
+  8   |    24
+Suma  |    108
