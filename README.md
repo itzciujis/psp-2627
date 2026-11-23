@@ -29,6 +29,8 @@ La estructura es la siguiente:
       # también puedes encontrarlos en el aula virtual
     /ejemplos/
       # código de clase (referencia, no evaluable)
+    /examen-practicas/
+      # práctica de examen (no evaluable)
     /actividad-1/
       README.md # enunciado actividad 1
     /actividad-2/
@@ -37,13 +39,13 @@ La estructura es la siguiente:
       README.md # enunciado actividad 3
     /actividad-4/
       README.md # enunciado actividad 4
-  /tema-2
-    /apuntes/
-      # también puedes encontrarlos en el aula virtual
     /actividad-5/
       README.md
     /actividad-6/
       README.md
+  /tema-2
+    /apuntes/
+      # también puedes encontrarlos en el aula virtual
   /proyecto-bloque
     README.md
 ```
